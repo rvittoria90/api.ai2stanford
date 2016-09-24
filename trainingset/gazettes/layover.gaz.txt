@@ -1,0 +1,19 @@
+layover nonstop
+layover direct
+layover with no layovers
+layover with no layover
+layover non stop
+layover no stop
+layover nostop
+layover no layover
+layover no layovers
+layover straight
+layover directly
+layover stopless
+layover without layover
+layover 1 stop
+layover 1 stop max
+layover non direct
+layover with one stop only
+layover no more than 1 stop
+layover with layover

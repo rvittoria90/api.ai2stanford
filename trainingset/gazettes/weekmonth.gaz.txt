@@ -1,0 +1,6 @@
+weekmonth week
+weekmonth weeks
+weekmonth month
+weekmonth months
+weekmonth day
+weekmonth days

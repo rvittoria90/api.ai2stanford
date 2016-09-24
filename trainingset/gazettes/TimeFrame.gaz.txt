@@ -1,0 +1,39 @@
+TimeFrame noon
+TimeFrame midday
+TimeFrame at noon
+TimeFrame at midday
+TimeFrame early morning or late afternoon
+TimeFrame daytime
+TimeFrame day time
+TimeFrame morning
+TimeFrame in the morning
+TimeFrame first flight
+TimeFrame evening
+TimeFrame in the evening
+TimeFrame night
+TimeFrame at night
+TimeFrame in the night
+TimeFrame tonight
+TimeFrame late at night
+TimeFrame last flight
+TimeFrame tonight
+TimeFrame tonight's
+TimeFrame early morning
+TimeFrame early in the morning
+TimeFrame in the early morning
+TimeFrame late afternoon
+TimeFrame late in the afternoon
+TimeFrame in the afternoon
+TimeFrame afternoon
+TimeFrame in a few hours
+TimeFrame in 2 hours
+TimeFrame in few hours
+TimeFrame in a couple of hours
+TimeFrame in a couple hours
+TimeFrame in couple hours
+TimeFrame now
+TimeFrame right now
+TimeFrame immediately
+TimeFrame in an hour
+TimeFrame in 60 minutes
+TimeFrame in about an hour

@@ -1,0 +1,5 @@
+{"usedEntAlias":
+	[
+	["return","return"],["fromcity","City"],["tocity","City"],["preference","preference"],["layover","layover"],["tocountry","Countries"],["fromcountry","Countries"],["weekmonth","weekmonth"],["TimeFrame","TimeFrame"],["between","between"],["departurearrival","departurearrival"],["beforeafter","beforeafter"],["dayoftheweek","dayoftheweek"],["nextfollowing","nextfollowing"],["airlines","airlines"],["sameday","sameday"],["date","date"],["hours","hours"],["inxdays","inxdays"],["dayslater","dayslater"],["NoTimePreferences","NoTimePreferences"],["wmlater","wmlater"]
+	]
+}

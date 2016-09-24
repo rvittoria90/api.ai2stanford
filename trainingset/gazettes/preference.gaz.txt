@@ -1,0 +1,66 @@
+preference cheapest
+preference less expensive
+preference less costly
+preference most affordable
+preference affordable
+preference best deal
+preference lowest price
+preference least expensive
+preference most economical
+preference least costly
+preference least pricey
+preference lowest fare
+preference cheapest fare
+preference not pricey
+preference not costly
+preference most affordable fare
+preference low cost
+preference low-cost
+preference economic
+preference inexpensive
+preference any cheap
+preference cheap
+preference last flight out
+preference latest
+preference last scheduled
+preference eco friendly
+preference environmentally friendly
+preference sustainable
+preference fastest
+preference quickest
+preference speedy
+preference quick
+preference quickly
+preference fast
+preference short
+preference overnight
+preference red eye
+preference red-eye
+preference late night
+preference ealry bird
+preference the first out
+preference first flight out
+preference early morning
+preference first scheduled
+preference comfort
+preference comfortable
+preference roomy
+preference extralegroom
+preference extra legroom
+preference extra leg room
+preference emergy exit
+preference close to the emergency exit
+preference exit row
+preference exit row seat
+preference emergency exit row seat
+preference emergency exit seat
+preference vip
+preference expensive
+preference luxury
+preference lux
+preference reliable
+preference on time
+preference punctual
+preference evening
+preference night
+preference weekend

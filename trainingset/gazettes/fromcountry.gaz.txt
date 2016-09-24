@@ -1,0 +1,305 @@
+fromcountry andorra
+fromcountry united arab emirates
+fromcountry afghanistan
+fromcountry antigua and barbuda
+fromcountry anguilla
+fromcountry albania
+fromcountry armenia
+fromcountry angola
+fromcountry antarctica
+fromcountry argentina
+fromcountry american samoa
+fromcountry austria
+fromcountry australia
+fromcountry aruba
+fromcountry azerbaijan
+fromcountry bosnia and herzegovina
+fromcountry barbados
+fromcountry bangladesh
+fromcountry belgium
+fromcountry burkina faso
+fromcountry bulgaria
+fromcountry bahrain
+fromcountry burundi
+fromcountry benin
+fromcountry saint barthžlemy
+fromcountry bermuda
+fromcountry brunei darussalam
+fromcountry bolivia
+fromcountry caribbean netherlands
+fromcountry brazil
+fromcountry bahamas
+fromcountry bhutan
+fromcountry bouvet island
+fromcountry botswana
+fromcountry belarus
+fromcountry belize
+fromcountry canada
+fromcountry cocos islands
+fromcountry democratic republic of
+fromcountry congo
+fromcountry democratic republic of
+fromcountry central african republic
+fromcountry congo
+fromcountry switzerland
+fromcountry costte d'ivoire
+fromcountry cook islands
+fromcountry chile
+fromcountry cameroon
+fromcountry china
+fromcountry colombia
+fromcountry costa rica
+fromcountry cuba
+fromcountry cape verde
+fromcountry christmas island
+fromcountry cyprus
+fromcountry czech republic
+fromcountry germany
+fromcountry djibouti
+fromcountry denmark
+fromcountry dominica
+fromcountry dominican republic
+fromcountry algeria
+fromcountry ecuador
+fromcountry estonia
+fromcountry egypt
+fromcountry western sahara
+fromcountry eritrea
+fromcountry spain
+fromcountry ethiopia
+fromcountry finland
+fromcountry fiji
+fromcountry falkland islands
+fromcountry federated states of
+fromcountry micronesia
+fromcountry federated states of
+fromcountry faroe islands
+fromcountry france
+fromcountry gabon
+fromcountry united kingdom
+fromcountry britain
+fromcountry great britain
+fromcountry grenada
+fromcountry georgia
+fromcountry french guiana
+fromcountry guernsey
+fromcountry ghana
+fromcountry gibraltar
+fromcountry greenland
+fromcountry gambia
+fromcountry guinea
+fromcountry guadeloupe
+fromcountry equatorial guinea
+fromcountry greece
+fromcountry south georgia and the south sandwich islands
+fromcountry guatemala
+fromcountry guam
+fromcountry guinea-bissau
+fromcountry guyana
+fromcountry hong kong
+fromcountry heard and mcdonald islands
+fromcountry honduras
+fromcountry croatia
+fromcountry haiti
+fromcountry hungary
+fromcountry indonesia
+fromcountry ireland
+fromcountry israel
+fromcountry isle of man
+fromcountry india
+fromcountry british indian ocean territory
+fromcountry iraq
+fromcountry iran
+fromcountry iceland
+fromcountry italy
+fromcountry jersey
+fromcountry jamaica
+fromcountry jordan
+fromcountry japan
+fromcountry kenya
+fromcountry kyrgyzstan
+fromcountry cambodia
+fromcountry kiribati
+fromcountry comoros
+fromcountry saint kitts and nevis
+fromcountry north korea
+fromcountry south korea
+fromcountry korea
+fromcountry kuwait
+fromcountry cayman islands
+fromcountry kazakhstan
+fromcountry lao people's democratic republic
+fromcountry lebanon
+fromcountry saint lucia
+fromcountry liechtenstein
+fromcountry sri lanka
+fromcountry liberia
+fromcountry lesotho
+fromcountry lithuania
+fromcountry luxembourg
+fromcountry latvia
+fromcountry libya
+fromcountry morocco
+fromcountry monaco
+fromcountry moldova
+fromcountry montenegro
+fromcountry saint-martin
+fromcountry madagascar
+fromcountry marshall islands
+fromcountry macedonia
+fromcountry mali
+fromcountry myanmar
+fromcountry mongolia
+fromcountry macau
+fromcountry northern mariana islands
+fromcountry martinique
+fromcountry mauritania
+fromcountry montserrat
+fromcountry malta
+fromcountry mauritius
+fromcountry maldives
+fromcountry malawi
+fromcountry mexico
+fromcountry malaysia
+fromcountry mozambique
+fromcountry namibia
+fromcountry new caledonia
+fromcountry niger
+fromcountry norfolk island
+fromcountry nigeria
+fromcountry nicaragua
+fromcountry the netherlands
+fromcountry norway
+fromcountry nepal
+fromcountry nauru
+fromcountry niue
+fromcountry new zealand
+fromcountry oman
+fromcountry panama
+fromcountry peru
+fromcountry french polynesia
+fromcountry papua new guinea
+fromcountry philippines
+fromcountry pakistan
+fromcountry poland
+fromcountry st. pierre and miquelon
+fromcountry pitcairn
+fromcountry puerto rico
+fromcountry state of
+fromcountry palestine
+fromcountry state of
+fromcountry portugal
+fromcountry palau
+fromcountry paraguay
+fromcountry qatar
+fromcountry ržunion
+fromcountry romania
+fromcountry serbia
+fromcountry russian federation
+fromcountry rwanda
+fromcountry saudi arabia
+fromcountry solomon islands
+fromcountry seychelles
+fromcountry sudan
+fromcountry sweden
+fromcountry saint helena
+fromcountry slovenia
+fromcountry svalbard and jan mayen islands
+fromcountry slovakia
+fromcountry sierra leone
+fromcountry senegal
+fromcountry somalia
+fromcountry suriname
+fromcountry south sudan
+fromcountry sao tome and principe
+fromcountry el salvador
+fromcountry sint maarten
+fromcountry syria
+fromcountry swaziland
+fromcountry turks and caicos islands
+fromcountry chad
+fromcountry french southern territories
+fromcountry togo
+fromcountry thailand
+fromcountry tajikistan
+fromcountry tokelau
+fromcountry timor-leste
+fromcountry turkmenistan
+fromcountry tunisia
+fromcountry tonga
+fromcountry turkey
+fromcountry trinidad and tobago
+fromcountry tuvalu
+fromcountry taiwan
+fromcountry tanzania
+fromcountry ukraine
+fromcountry uganda
+fromcountry united states minor outlying islands
+fromcountry usa
+fromcountry united states
+fromcountry uruguay
+fromcountry uzbekistan
+fromcountry vatican
+fromcountry saint vincent and the grenadines
+fromcountry venezuela
+fromcountry virgin islands
+fromcountry vietnam
+fromcountry vanuatu
+fromcountry wallis and futuna islands
+fromcountry samoa
+fromcountry yemen
+fromcountry mayotte
+fromcountry south africa
+fromcountry zambia
+fromcountry zimbabwe
+fromcountry alaska
+fromcountry alabama
+fromcountry arkansas
+fromcountry arizona
+fromcountry california
+fromcountry colorado
+fromcountry connecticut
+fromcountry district of columbia
+fromcountry delaware
+fromcountry florida
+fromcountry georgia
+fromcountry hawaii
+fromcountry iowa
+fromcountry idaho
+fromcountry illinois
+fromcountry indiana
+fromcountry kansas
+fromcountry kentucky
+fromcountry louisiana
+fromcountry massachusetts
+fromcountry maryland
+fromcountry maine
+fromcountry michigan
+fromcountry minnesota
+fromcountry missouri
+fromcountry mississippi
+fromcountry montana
+fromcountry north carolina
+fromcountry north dakota
+fromcountry nebraska
+fromcountry new hampshire
+fromcountry new jersey
+fromcountry new mexico
+fromcountry nevada
+fromcountry new york
+fromcountry ohio
+fromcountry oklahoma
+fromcountry oregon
+fromcountry pennsylvania
+fromcountry rhode island
+fromcountry south carolina
+fromcountry south dakota
+fromcountry tennessee
+fromcountry texas
+fromcountry utah
+fromcountry virginia
+fromcountry vermont
+fromcountry washington
+fromcountry wisconsin
+fromcountry west virginia
+fromcountry wyoming

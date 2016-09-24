@@ -1,0 +1,14 @@
+dayoftheweek monday
+dayoftheweek mon
+dayoftheweek tuesday
+dayoftheweek tue
+dayoftheweek wednesday
+dayoftheweek wed
+dayoftheweek thursday
+dayoftheweek thu
+dayoftheweek friday
+dayoftheweek fri
+dayoftheweek saturday
+dayoftheweek sat
+dayoftheweek sunday
+dayoftheweek sun

@@ -1,0 +1,305 @@
+tocountry andorra
+tocountry united arab emirates
+tocountry afghanistan
+tocountry antigua and barbuda
+tocountry anguilla
+tocountry albania
+tocountry armenia
+tocountry angola
+tocountry antarctica
+tocountry argentina
+tocountry american samoa
+tocountry austria
+tocountry australia
+tocountry aruba
+tocountry azerbaijan
+tocountry bosnia and herzegovina
+tocountry barbados
+tocountry bangladesh
+tocountry belgium
+tocountry burkina faso
+tocountry bulgaria
+tocountry bahrain
+tocountry burundi
+tocountry benin
+tocountry saint barthžlemy
+tocountry bermuda
+tocountry brunei darussalam
+tocountry bolivia
+tocountry caribbean netherlands
+tocountry brazil
+tocountry bahamas
+tocountry bhutan
+tocountry bouvet island
+tocountry botswana
+tocountry belarus
+tocountry belize
+tocountry canada
+tocountry cocos islands
+tocountry democratic republic of
+tocountry congo
+tocountry democratic republic of
+tocountry central african republic
+tocountry congo
+tocountry switzerland
+tocountry costte d'ivoire
+tocountry cook islands
+tocountry chile
+tocountry cameroon
+tocountry china
+tocountry colombia
+tocountry costa rica
+tocountry cuba
+tocountry cape verde
+tocountry christmas island
+tocountry cyprus
+tocountry czech republic
+tocountry germany
+tocountry djibouti
+tocountry denmark
+tocountry dominica
+tocountry dominican republic
+tocountry algeria
+tocountry ecuador
+tocountry estonia
+tocountry egypt
+tocountry western sahara
+tocountry eritrea
+tocountry spain
+tocountry ethiopia
+tocountry finland
+tocountry fiji
+tocountry falkland islands
+tocountry federated states of
+tocountry micronesia
+tocountry federated states of
+tocountry faroe islands
+tocountry france
+tocountry gabon
+tocountry united kingdom
+tocountry britain
+tocountry great britain
+tocountry grenada
+tocountry georgia
+tocountry french guiana
+tocountry guernsey
+tocountry ghana
+tocountry gibraltar
+tocountry greenland
+tocountry gambia
+tocountry guinea
+tocountry guadeloupe
+tocountry equatorial guinea
+tocountry greece
+tocountry south georgia and the south sandwich islands
+tocountry guatemala
+tocountry guam
+tocountry guinea-bissau
+tocountry guyana
+tocountry hong kong
+tocountry heard and mcdonald islands
+tocountry honduras
+tocountry croatia
+tocountry haiti
+tocountry hungary
+tocountry indonesia
+tocountry ireland
+tocountry israel
+tocountry isle of man
+tocountry india
+tocountry british indian ocean territory
+tocountry iraq
+tocountry iran
+tocountry iceland
+tocountry italy
+tocountry jersey
+tocountry jamaica
+tocountry jordan
+tocountry japan
+tocountry kenya
+tocountry kyrgyzstan
+tocountry cambodia
+tocountry kiribati
+tocountry comoros
+tocountry saint kitts and nevis
+tocountry north korea
+tocountry south korea
+tocountry korea
+tocountry kuwait
+tocountry cayman islands
+tocountry kazakhstan
+tocountry lao people's democratic republic
+tocountry lebanon
+tocountry saint lucia
+tocountry liechtenstein
+tocountry sri lanka
+tocountry liberia
+tocountry lesotho
+tocountry lithuania
+tocountry luxembourg
+tocountry latvia
+tocountry libya
+tocountry morocco
+tocountry monaco
+tocountry moldova
+tocountry montenegro
+tocountry saint-martin
+tocountry madagascar
+tocountry marshall islands
+tocountry macedonia
+tocountry mali
+tocountry myanmar
+tocountry mongolia
+tocountry macau
+tocountry northern mariana islands
+tocountry martinique
+tocountry mauritania
+tocountry montserrat
+tocountry malta
+tocountry mauritius
+tocountry maldives
+tocountry malawi
+tocountry mexico
+tocountry malaysia
+tocountry mozambique
+tocountry namibia
+tocountry new caledonia
+tocountry niger
+tocountry norfolk island
+tocountry nigeria
+tocountry nicaragua
+tocountry the netherlands
+tocountry norway
+tocountry nepal
+tocountry nauru
+tocountry niue
+tocountry new zealand
+tocountry oman
+tocountry panama
+tocountry peru
+tocountry french polynesia
+tocountry papua new guinea
+tocountry philippines
+tocountry pakistan
+tocountry poland
+tocountry st. pierre and miquelon
+tocountry pitcairn
+tocountry puerto rico
+tocountry state of
+tocountry palestine
+tocountry state of
+tocountry portugal
+tocountry palau
+tocountry paraguay
+tocountry qatar
+tocountry ržunion
+tocountry romania
+tocountry serbia
+tocountry russian federation
+tocountry rwanda
+tocountry saudi arabia
+tocountry solomon islands
+tocountry seychelles
+tocountry sudan
+tocountry sweden
+tocountry saint helena
+tocountry slovenia
+tocountry svalbard and jan mayen islands
+tocountry slovakia
+tocountry sierra leone
+tocountry senegal
+tocountry somalia
+tocountry suriname
+tocountry south sudan
+tocountry sao tome and principe
+tocountry el salvador
+tocountry sint maarten
+tocountry syria
+tocountry swaziland
+tocountry turks and caicos islands
+tocountry chad
+tocountry french southern territories
+tocountry togo
+tocountry thailand
+tocountry tajikistan
+tocountry tokelau
+tocountry timor-leste
+tocountry turkmenistan
+tocountry tunisia
+tocountry tonga
+tocountry turkey
+tocountry trinidad and tobago
+tocountry tuvalu
+tocountry taiwan
+tocountry tanzania
+tocountry ukraine
+tocountry uganda
+tocountry united states minor outlying islands
+tocountry usa
+tocountry united states
+tocountry uruguay
+tocountry uzbekistan
+tocountry vatican
+tocountry saint vincent and the grenadines
+tocountry venezuela
+tocountry virgin islands
+tocountry vietnam
+tocountry vanuatu
+tocountry wallis and futuna islands
+tocountry samoa
+tocountry yemen
+tocountry mayotte
+tocountry south africa
+tocountry zambia
+tocountry zimbabwe
+tocountry alaska
+tocountry alabama
+tocountry arkansas
+tocountry arizona
+tocountry california
+tocountry colorado
+tocountry connecticut
+tocountry district of columbia
+tocountry delaware
+tocountry florida
+tocountry georgia
+tocountry hawaii
+tocountry iowa
+tocountry idaho
+tocountry illinois
+tocountry indiana
+tocountry kansas
+tocountry kentucky
+tocountry louisiana
+tocountry massachusetts
+tocountry maryland
+tocountry maine
+tocountry michigan
+tocountry minnesota
+tocountry missouri
+tocountry mississippi
+tocountry montana
+tocountry north carolina
+tocountry north dakota
+tocountry nebraska
+tocountry new hampshire
+tocountry new jersey
+tocountry new mexico
+tocountry nevada
+tocountry new york
+tocountry ohio
+tocountry oklahoma
+tocountry oregon
+tocountry pennsylvania
+tocountry rhode island
+tocountry south carolina
+tocountry south dakota
+tocountry tennessee
+tocountry texas
+tocountry utah
+tocountry virginia
+tocountry vermont
+tocountry washington
+tocountry wisconsin
+tocountry west virginia
+tocountry wyoming

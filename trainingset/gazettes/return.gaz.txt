@@ -1,0 +1,37 @@
+return return ticket
+return return flight
+return return flights
+return return air ticket
+return return air tickets
+return return airfare
+return return trip
+return round trip
+return roundtrip
+return business trip
+return round trip ticket
+return rountrip
+return ticket
+return tickets
+return flight
+return flights
+return airfare
+return air ticket
+return air tickets
+return plane
+return trip
+return me
+return go
+return one way ticket
+return single ticket
+return one way flight
+return single flight
+return one way trip
+return single trip
+return one way air ticket
+return single air ticket
+return one-way
+return direct flight
+return direct
+return single
+return one way only
+return one way
